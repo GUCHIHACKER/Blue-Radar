@@ -33,6 +33,7 @@ Se esta intentando implementar en Termux para que se pueda utilizar desde dispos
 
 ## Anuncio Importante
 Solo funciona con los dispositivos que tengan activado ser visibles para el resto, en algunos dispositivos viene activado por defecto.
+
 Si quiere que la herramienta tenga mas potencia comprese un adaptador bluetooth mas potente(Si lo hace tendra que cambiar el codigo de la herramienta para que se ejecute en dicho adaptador), tambien pude intentar ampliar la potencia con el siguiente comando:
 ```bash
 sudo hcitool -i hci0 cmd 0x03 0x0c 0x00 0x03 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
