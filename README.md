@@ -20,7 +20,6 @@ chmod +x blue-radar.sh
 ## Usage:
 ```bash
 sudo ./blue-radar.sh
-sudo ./blue-radar-alert.sh # Nueva herramienta que avisa cuando un dispositivo en concreto esta cerca
 ```
 ![tool](link-gif)
 
