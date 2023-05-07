@@ -1,4 +1,6 @@
 # Blue-Radar
+He creado esta herramienta por la inspiracion que me dio una charla en la rootedcon de madrid.
+
 Descripción del proyecto Blue-Radar:
 Blue-Radar es una herramienta que utiliza la tecnología Bluetooth para detectar y mostrar en tiempo real todos los dispositivos cercanos que tienen esta tecnología activada. La herramienta está diseñada para ser fácil de usar y está pensada para ser utilizada en situaciones en las que es necesario detectar dispositivos cercanos, ya sea para fuerzas del orden o simplemente para saber si hay alguien en las cercanías.
 
