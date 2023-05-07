@@ -58,7 +58,7 @@ function get_device_info() {
     mac_address=$1
     info=$(hcitool info $mac_address | grep -E "BD Address:|Device Name:|Manufacturer:|OUI Company:")
     echo "---------------------------------------"
-    echo "Informacion de disposiivo $mac_address:"
+    echo "Informacion de disposivo $mac_address:"
     echo "$info"
     echo "---------------------------------------"
 }
