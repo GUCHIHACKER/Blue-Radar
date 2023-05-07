@@ -23,6 +23,7 @@ esac
 
 case $numero in
     3) 
+        clear
         echo "Blue-Radar classic: Herramienta de radar bluetooth."
         echo "Blue-Radar alert: Herramienta que avisa cuando un dispositivo concreto se conecta"
         echo""
