@@ -21,7 +21,9 @@ chmod +x blue-radar.sh
 ```bash
 sudo ./blue-radar.sh
 ```
-![tool](link-gif)
+Examles:
+![tool](https://github.com/GUCHIHACKER/Blue-Radar/blob/main/Blue-Radar-alert.gif)
+![tool](https://github.com/GUCHIHACKER/Blue-Radar/blob/main/Blue-Radar-scanner.gif)
 
 ```bash
 info <MAC> # Ver informacion del dispositivo bluetooth.
