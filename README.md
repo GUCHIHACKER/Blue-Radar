@@ -10,6 +10,8 @@ La herramienta utiliza una serie de algoritmos de búsqueda y análisis para det
 
 Blue-Radar es una herramienta muy útil en una variedad de situaciones, como en operaciones policiales para detectar dispositivos sospechosos, en situaciones de búsqueda y rescate para localizar a personas desaparecidas y en entornos corporativos para detectar dispositivos no autorizados. El proyecto se mantiene y actualiza regularmente, lo que garantiza que la herramienta siga siendo eficaz y útil para una amplia gama de usuarios.
 
+Esta herramienta es un prototipo de gran proyecto futuro.
+
 ## Installation:
 ```bash
 sudo apt install hcitool git
