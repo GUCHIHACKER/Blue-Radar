@@ -3,10 +3,7 @@ clear
 sudo rm devices.txt
 touch devices.txt
 
-if [[ $EUID -ne 0 ]]; then
-   echo "Este script debe ser ejecutado como root" 
-   exit 1
-fi
+
 output_file="devices.txt"
 counter=0
 scanned_devices=()
