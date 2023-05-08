@@ -2,6 +2,11 @@
 
 clear
 
+if [[ $EUID -ne 0 ]]; then
+   echo "Este script debe ser ejecutado como root" 
+   exit 1
+fi
+
 echo "1. Blue-Radar classic"
 echo "2. Blue-Radar alert"
 echo "3. Descripcion rapida de las dos herramientas."
