@@ -8,12 +8,12 @@ echo "3. Descripcion rapida de las dos herramientas."
 read -p "Elije la opcion que quieres(1-3): " numero
 case $numero in
     1)
-        sudo ./blue-radar-scanner.sh
+        ./blue-radar-scanner.sh
 esac
 
 case $numero in
     2)
-        sudo ./blue-radar-alert.sh
+        ./blue-radar-alert.sh
 esac
 
 case $numero in
