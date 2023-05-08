@@ -2,12 +2,6 @@
 clear
 
 
-if [[ $EUID -ne 0 ]]; then
-   echo "Este script debe ser ejecutado como root" 
-   exit 1
-fi
-
-
 if [[ -f devices.txt ]]; then
    rm devices.txt
 fi
