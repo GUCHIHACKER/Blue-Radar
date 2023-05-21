@@ -14,10 +14,10 @@ Esta herramienta es un prototipo de gran proyecto futuro.
 
 ## Installation:
 ```bash
-sudo apt install hcitool git
+sudo apt install bluez git
 git clone https://github.com/GUCHIHACKER/Blue-Radar.git
 cd Blue-Radar
-chmod +x blue-radar.sh
+chmod +x blue-radar.sh blue-radar-scanner.sh blue-radar-alert.sh
 ```
 ## Usage:
 ```bash
