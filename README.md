@@ -1,6 +1,4 @@
 # Blue-Radar
-![tool](https://github.com/GUCHIHACKER/Blue-Radar/blob/main/licencia.jpeg)
-
 He creado esta herramienta por la inspiracion que me dio una charla en la rootedcon de madrid.
 
 Descripción del proyecto Blue-Radar:
@@ -48,3 +46,7 @@ Si quiere que la herramienta tenga mas potencia comprese un adaptador bluetooth 
 ```bash
 sudo hcitool -i hci0 cmd 0x03 0x0c 0x00 0x03 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
 ```
+
+## LICENCE:
+
+![tool](https://github.com/GUCHIHACKER/Blue-Radar/blob/main/licencia.jpeg)
