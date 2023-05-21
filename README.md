@@ -1,4 +1,5 @@
 # Blue-Radar
+![tool](https://github.com/GUCHIHACKER/Blue-Radar/blob/main/licencia.jpeg)
 He creado esta herramienta por la inspiracion que me dio una charla en la rootedcon de madrid.
 
 Descripción del proyecto Blue-Radar:
